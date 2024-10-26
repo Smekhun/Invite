@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Organization//Your Product//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:smekhun@gmail.com
+DTSTAMP:20240110T150000Z
+DTSTART:20250110T150000Z
+DTEND:20250112T110000Z
+SUMMARY:Весілля Святослава та Аліни
+DESCRIPTION:Запрошуємо Вас на наше незвичайне весілля!\nТелефон: 720 279 764
+LOCATION:Клічків, Польща
+END:VEVENT
+END:VCALENDAR
